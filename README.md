@@ -23,7 +23,7 @@
 
 <h3>Tech Stack</h3>
 
-![My Skills](https://skillicons.dev/icons?i=py,r,mysql,tensorflow,rails) 
+![My Skills](https://skillicons.dev/icons?i=py,r,aws,docker,mysql,tensorflow,rails) 
 
 <h3>Visualisation Tools</h3>
 
